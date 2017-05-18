@@ -1,4 +1,4 @@
-// code goes here
+// code goes here 
 var answer1 = document.querySelector("#answer1")
 
 var sum = items.reduce(function(a,b){
@@ -71,10 +71,5 @@ var seller = items.filter(function(item){
 answer6html = `${seller} were made by their sellers.`
 
 answer6.innerHTML = answer6html
-
-
-
-
-
 
 
